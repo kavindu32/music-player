@@ -233,6 +233,7 @@
   backdrop-filter: blur(20px);
   background-blend-mode: screen;
   transition: all 0.15s ease-in-out;
+	backdrop-filter:blur(20px);
 }
 .music-list.show{
   bottom: 0;
