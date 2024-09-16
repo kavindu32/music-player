@@ -170,9 +170,11 @@
 
 .controls i.prev{
   font-size: 25px;
+	padding:5px;
   }
   .controls i.next{
     font-size: 25px;
+	  padding:5px;
     }
 
 .controls .play-pause{
