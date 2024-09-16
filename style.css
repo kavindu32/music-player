@@ -231,7 +231,7 @@
   z-index: 5;
   padding: 15px 30px;
   border-radius: 15px;
-  background:rgba(255, 255, 255, 0.247);
+  background:rgba(255, 255, 255, 0.4);
   backdrop-filter: blur(20px);
   background-blend-mode: screen;
   transition: all 0.15s ease-in-out;
