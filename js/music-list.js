@@ -33,8 +33,8 @@ let allMusic = [
     {
         name: "What Makes You Beautiful",
         artist: "One Direction",
-        img: "music-6",
-        src: "music-6"
+        img: "music-7",
+        src: "music-7"
     },
     
     ];
